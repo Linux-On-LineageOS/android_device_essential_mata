@@ -420,3 +420,4 @@ PRODUCT_PACKAGES += \
 
 
 
+$(call inherit-product, vendor/lindroid/lindroid.mk)
